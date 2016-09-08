@@ -1,0 +1,2 @@
+# EarlyStagesPsychology
+Background: I am currently a college student studying Computer Science in Miami, FL. My step-mother is a psychologist and she studies children from an early age to study childhood abnormalities or disorders. She requested I made her an application (cross-platform) so I made it in Java. It's fairly simple to use and I will have it up here as an open source with an FAQ to teach others who need it, how to use it.
